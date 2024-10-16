@@ -1,0 +1,9 @@
+Testing: Runs unit and integration tests.
+Building: Builds the Docker image for the chatbot.
+Deployment: Deploys the Docker container 
+
+
+
+
+
+
